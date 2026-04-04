@@ -7,6 +7,8 @@ order: 4
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 
+![Mi foto](/assets/img/avatar/santiago.jpg)
+
 
 Hi! My name is Santiago Garzon Diaz.
 
@@ -17,5 +19,8 @@ I'm passionate about data, finances and business strategy.
 I use tools such as Python, Spark, SQL, Git, AWS, among others.
 
 I built this blog as a way to talk about tools I work with, and why not? Maybe movies, books or TV Shows I'm passionate about.
+
+Contact:
+- Enail: santigarzon58@gmail.com
 
 Greetings!
