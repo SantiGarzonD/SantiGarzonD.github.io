@@ -10,7 +10,7 @@ order: 4
 
 Hi! My name is Santiago Garzon Diaz.
 
-I'm a Data Engineer working currently in the biggest bank in my Home Country - Colombia.
+I'm a Data Engineer working currently in the biggest bank in my Home Country - Colombia (Bancolombia - Cibest Group)
 
 I'm passionate about data, finances and business strategy.
 
