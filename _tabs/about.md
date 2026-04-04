@@ -21,6 +21,6 @@ I use tools such as Python, Spark, SQL, Git, AWS, among others.
 I built this blog as a way to talk about tools I work with, and why not? Maybe movies, books or TV Shows I'm passionate about.
 
 Contact:
-- Enail: santigarzon58@gmail.com
+- Email: santigarzon58@gmail.com
 
 Greetings!
